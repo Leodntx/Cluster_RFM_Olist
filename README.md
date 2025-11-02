@@ -1,4 +1,4 @@
-# 📊 Segmentação de Clientes RFM: Olist E-commerce
+# 📊 Clusterização de Clientes RFM: Olist E-commerce
 
 ## 🚀 Visão Geral do Projeto
 
