@@ -32,10 +32,6 @@ O modelo identificou 4 segmentos distintos, conforme detalhado abaixo:
 | **1** | **Alto Valor em Risco** | **Reativação Urgente** | Campanha de reengajamento personalizada e pesquisa de satisfação. |
 | **0** | **Adormecidos** | **Otimização de Custos** | Ações automatizadas e de baixo custo. |
 
-*Para uma análise completa, incluindo gráficos e código, consulte o Notebook [Nome_Do_Seu_Arquivo.ipynb].*
+*Para uma análise completa, incluindo gráficos e código, consulte o Notebook Cluster_RFM_Olist.ipynb.*
 
----
 
-Após editar e salvar o `README.md`, seu portfólio estará pronto! O arquivo `.ipynb` mostrará todo o seu código e resultados, enquanto o `README` servirá como um resumo executivo para quem está visualizando.
-
-O que achou desta estrutura de portfólio? Podemos fazer a verificação final na sua página do GitHub.
